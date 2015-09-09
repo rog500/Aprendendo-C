@@ -1,0 +1,9 @@
+# include <stdlib.h>
+# include <stdio.h>
+
+main()
+{
+char a [20]="Rogerio";
+printf("Hello World %s\n",a);
+system("pause");
+}
